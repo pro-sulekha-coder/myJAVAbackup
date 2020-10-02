@@ -1,0 +1,1 @@
+i removed  as shitty path from the enviromnet variable then my java became okay "D
